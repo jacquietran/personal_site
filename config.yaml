@@ -1,0 +1,32 @@
+baseURL: https://jacquietran.com/
+languageCode: en-GB
+title: Jacquie Tran
+disqusShortname: ''
+googleAnalytics: ''
+theme: hugo-sustain
+permalinks:
+  post: /:year/:month/:day/:slug
+params:
+  author: Jacquie Tran
+  avatar: img/profile.png
+  custom_css: []
+  custom_js: []
+  description: Jacquie Tran - Data analyst, sport scientist
+  social:
+    Email: jac@jacquietran.com
+    Github: jacquietran
+    Twitter: jacquietran
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 100
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 200
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 300
