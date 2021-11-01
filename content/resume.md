@@ -3,7 +3,7 @@ author: Jacquie Tran
 title: Resume
 ---
 
-## Experience
+# Experience
 
 **Co-Director** | [Flame Trees Limited](https://www.flametrees.co.nz) (2021–present)
 
@@ -21,7 +21,23 @@ title: Resume
 <center><hr width = "50%"></center>
 <br />
 
-## Education
+# Consulting work
+
+I've consulted for the following organisations to provide direct scientific support and advice, research and data analytics services, and teaching (e.g., guest lectures, module design and delivery),:
+
+- Auckland Rugby Union
+- Australian Institute of Sport Combat Centre
+- Victorian Institute of Sport
+- Australian Catholic University
+- Bowls Australia
+- Doncaster Hockey Club
+- Glen Waverley Rovers Junior Football Club
+
+<br />
+<center><hr width = "50%"></center>
+<br />
+
+# Education
 
 **Doctor of Philosophy**<br/>
 Deakin University | Degree conferred October 2015<br />
@@ -39,7 +55,7 @@ Deakin University | Degree conferred April 2009
 <center><hr width = "50%"></center>
 <br />
 
-## Recent publications
+# Recent publications
 
 [**Click here for a full list of my academic publications**](/publications).
 
